@@ -1,0 +1,67 @@
+Command: /home/users7/rk366163/526L/Lab8/./simv -l Lab8_1.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Apr  5 11:20 2024
+
+Warning-[STASKW_CO1] Cannot open file
+  The file '/home/users7/rk366163/526L/Lab8/mem_data.txt' could not be opened.
+  No such file or directory.
+  Please ensure that the file exists with proper permissions.
+
+
+Warning-[STASKW_RMCOF] Cannot open file
+rom_tb.v, 9
+  Cannot open file '/home/users7/rk366163/526L/Lab8/mem_data.txt' passed as 
+  argument to $readmem.
+  Please verify that the first argument to $readmem is a file that exists with
+  proper permissions.
+
+Memory Initialised:
+[4]: xx
+[5]: xx
+[6]: xx
+[7]: xx
+[8]: xx
+[9]: xx
+[a]: xx
+[b]: xx
+[c]: xx
+[d]: xx
+[e]: xx
+[f]: xx
+[10]: xx
+[11]: xx
+[12]: xx
+[13]: xx
+[14]: xx
+[15]: xx
+[16]: xx
+[17]: xx
+[18]: xx
+[19]: xx
+[1a]: xx
+[1b]: xx
+[1c]: xx
+[1d]: xx
+[1e]: xx
+[1f]: xx
+Unspecified Locations:
+[0]: xx
+[1]: xx
+[2]: xx
+[3]: xx
+Memory Scrambled:
+[10]: xx
+[11]: xx
+[12]: xx
+[13]: xx
+[14]: xx
+[15]: xx
+[16]: xx
+[17]: xx
+$finish called from file "rom_tb.v", line 25.
+$finish at simulation time                    0
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Fri Apr  5 11:20:35 2024
